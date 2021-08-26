@@ -1,0 +1,143 @@
+[[open62541]]
+arch = "aarch64"
+git-tree-sha1 = "7175ec4375bc9bdbc93bfe1bc6ac3729a74c89f1"
+os = "macos"
+
+    [[open62541.download]]
+    sha256 = "4978a0b73dfb3bdd03e7f46ed9f59958b34a5169f23cd89588016dc3a3c59064"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.aarch64-apple-darwin.tar.gz"
+[[open62541]]
+arch = "aarch64"
+git-tree-sha1 = "98474ba1ba62ce0fe5a281416dad82ee1ba94b02"
+libc = "glibc"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "c131aed63b9ebd542bc28c728abb96e90e9722439f6835c3a1116a03944296c6"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.aarch64-linux-gnu.tar.gz"
+[[open62541]]
+arch = "aarch64"
+git-tree-sha1 = "7ab99e295a349c0ebe94da9212b64021abedd6cc"
+libc = "musl"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "c7c58e843029e64e93e99c869ed4ff8da58fdcfb19aadce2f4612b45477ab683"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.aarch64-linux-musl.tar.gz"
+[[open62541]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8c38fae830fa9afda92ac5145161b8061fd2d5fa"
+libc = "glibc"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "dc662287daa1a5f971adaf55917b8b60a0f62d72255af7e3d700a6eb096d9fba"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.armv6l-linux-gnueabihf.tar.gz"
+[[open62541]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "145304ce8543b399388385b486af452d10040689"
+libc = "musl"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "843b527dad376e4ec9a7a0db831707e2cba165a9937d29475eee4c20764186e4"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.armv6l-linux-musleabihf.tar.gz"
+[[open62541]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "edb321d5d6520a1258b3a490b748bcd1fa4dbe80"
+libc = "glibc"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "3ae2bd5fe4ff2eb3d1c6c4e7c7dd494695aaff63760b9ccd5bd6d61f20f2cdf1"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.armv7l-linux-gnueabihf.tar.gz"
+[[open62541]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "817fe8b9e1f8b225127642e18addbf416ad430a4"
+libc = "musl"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "a9e0c2d334fe7bb160c5f4052020ee956c7c2d2069e5ebac060ea16d4db2effc"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.armv7l-linux-musleabihf.tar.gz"
+[[open62541]]
+arch = "i686"
+git-tree-sha1 = "cabba3b64f0f9a752fb29982504e231f35a22cc9"
+libc = "glibc"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "6e37ad152d84ab2597fca8e42c420c387ff50143537f59d36cc9c7f5a3d80e60"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.i686-linux-gnu.tar.gz"
+[[open62541]]
+arch = "i686"
+git-tree-sha1 = "0119624d7cc54b8886f1f5aa953d76481e54d059"
+libc = "musl"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "40cee119a8e5b56932bf83c07dbf603df3ae2a80cb8a45124c687f44cdbc4728"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.i686-linux-musl.tar.gz"
+[[open62541]]
+arch = "i686"
+git-tree-sha1 = "418b59e07f48294f24b9bb37c3712902af4fd9d6"
+os = "windows"
+
+    [[open62541.download]]
+    sha256 = "8f68de7b3cf875ced3c0cf896975f63274590bc571552a9ddea036e9ef488fe7"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.i686-w64-mingw32.tar.gz"
+[[open62541]]
+arch = "powerpc64le"
+git-tree-sha1 = "e186990394799bc6fda169e15e358e01f56ce22b"
+libc = "glibc"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "7fd6fc1f97beeea125069683cf59c815eed5bac4331498099621073229b96f49"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.powerpc64le-linux-gnu.tar.gz"
+[[open62541]]
+arch = "x86_64"
+git-tree-sha1 = "ef333eb309b2316fe5060e7b229b869c3106c004"
+os = "macos"
+
+    [[open62541.download]]
+    sha256 = "5b7236b12bbf8e07ad2c2ef5a7e2312976be63b3f3813e908f18ee97e46f5e69"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.x86_64-apple-darwin.tar.gz"
+[[open62541]]
+arch = "x86_64"
+git-tree-sha1 = "1d0f129aed9a85b02d791d6a44b2e20192706b18"
+libc = "glibc"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "a9b1737b296c8d61facd39e153e6d7f7b4bbbbdc425d29b3410b4688b6a37c18"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.x86_64-linux-gnu.tar.gz"
+[[open62541]]
+arch = "x86_64"
+git-tree-sha1 = "2717dfb000d23a81301a3676641b2cf4bd6eaf38"
+libc = "musl"
+os = "linux"
+
+    [[open62541.download]]
+    sha256 = "1e4029d7cf2a0cec1aeadc56098f9b907f9c886d6f5c4ed8522f1008617b4d4c"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.x86_64-linux-musl.tar.gz"
+[[open62541]]
+arch = "x86_64"
+git-tree-sha1 = "d4ea137d216cafc91c22dbf527fd6bcebe22f700"
+os = "freebsd"
+
+    [[open62541.download]]
+    sha256 = "272824d9a25c1ea1017d32816de4f106b2f77407d1bb90f0a0b2812552f888d6"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.x86_64-unknown-freebsd.tar.gz"
+[[open62541]]
+arch = "x86_64"
+git-tree-sha1 = "ffa22b53315c5708c7fdc11a726465409d2cb7b0"
+os = "windows"
+
+    [[open62541.download]]
+    sha256 = "22625f0e3d24de60c902fa1c216b62eee1aa54a2aae02e6c1f74f7223e93adc6"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.2.2+0/open62541.v1.2.2.x86_64-w64-mingw32.tar.gz"
