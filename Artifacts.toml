@@ -1,143 +1,143 @@
 [[open62541]]
 arch = "aarch64"
-git-tree-sha1 = "017c2d2f518700e45cef1db65a0b4ae8a5b76e78"
+git-tree-sha1 = "83e36f82a7141b7c31933bd0c2344f11d7a546fe"
 os = "macos"
 
     [[open62541.download]]
-    sha256 = "d8ad1a575e84d5b09ef3dd09f4b349372e09372ebe1d7abc846edba554bf3e8e"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "f7993a6d16e8ca9a55853005b87f1af2d9d7547f192af79c452460d9a0bc1da5"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.aarch64-apple-darwin.tar.gz"
 [[open62541]]
 arch = "aarch64"
-git-tree-sha1 = "ee229bbb45807f48caf9935080139ef0a8124369"
+git-tree-sha1 = "6381903bc9cd072aee6b2d79cf1a6a676235bc3b"
 libc = "glibc"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "5caa677a89db22821bc66486ec6929da1da5674abedf147d82d9ecd09b7f1db1"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "82a32a53432b4e19e76cbf1d6ba3ebf317e3f1ca54dd39e38904e9da02ff5518"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.aarch64-linux-gnu.tar.gz"
 [[open62541]]
 arch = "aarch64"
-git-tree-sha1 = "eee7430ca5b4f4b9eba9d877820aacfe319fec62"
+git-tree-sha1 = "5ff227211908e3a56f19a765012f7fe26dbf80f8"
 libc = "musl"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "ad98e5cd12906931e1344b24105fcd7f6740a30e39dcd44242920f877870890e"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.aarch64-linux-musl.tar.gz"
+    sha256 = "63853c18fcab80144dffc3d7da32b90118169fb231d954357f95baa69e818ee9"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.aarch64-linux-musl.tar.gz"
 [[open62541]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "15541d51ba9ae61af91fe9874e4400b43592d11c"
+git-tree-sha1 = "ee3b48c1309b09aaec0a3bec772e3c3e2753575b"
 libc = "glibc"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "ed6b9bbb29fa313b4d65a31ad979c21819311e2f24bbc72d52fb54bd3d1b2ca0"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "4f75b68206a99decc1e7fbc9e65476a09328d26feb8d6519e2d2fa4d6b70d783"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.armv6l-linux-gnueabihf.tar.gz"
 [[open62541]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "b6e5e70439a431217d37e8d332e46814168ccd78"
+git-tree-sha1 = "a4b9b2131c4dde1784c7e040c9ce2a51b79ece4b"
 libc = "musl"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "a9d4eca05b728a9db38586923aafebf6843954cd118cf1633c319ff70b32eff5"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "5a059fa599f5e54fd429bdca18ce2fd749168a3c3737ebff614c523fdcc06747"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.armv6l-linux-musleabihf.tar.gz"
 [[open62541]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d731ed7e1bf1729b4cbdfb930e52f717429a6297"
+git-tree-sha1 = "90087c8ab52116ce48bdf493652430f2e3583a05"
 libc = "glibc"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "d9660f400714d03311a191953e18afef2ebcd1f54cb5c29e77f6778c3f16bf36"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "6a443ba2b9f93851c12d5717e44b3b241826a0ce49d84139118c91ad1c4bb488"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.armv7l-linux-gnueabihf.tar.gz"
 [[open62541]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "089edf79cd07724d6de7b09538b7bde8f571cfcc"
+git-tree-sha1 = "88de221a6f3d819ae9f81f832cf73a091bf7482f"
 libc = "musl"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "3d24aa3f9cb37f92376532d06af8249677142b97b5d7d0a437e61d20a1baec71"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "cbca03bd6f9eef0bb4639706aa53ae1fb644cb567f61f8280d6dd03807b29221"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.armv7l-linux-musleabihf.tar.gz"
 [[open62541]]
 arch = "i686"
-git-tree-sha1 = "8e25828a3168b6f39f1dd146d875d36e5e2be169"
+git-tree-sha1 = "bbb2ad886bd93fbc8367e75ad320f2889a06581a"
 libc = "glibc"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "ea279c1cc2be40bdda6dd111f08acf356461b0a5037e80d9c850834481aa6d7d"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.i686-linux-gnu.tar.gz"
+    sha256 = "37c593218e4d2d136cf122f027766cc6242cbb40270212a2add9654511ffe30f"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.i686-linux-gnu.tar.gz"
 [[open62541]]
 arch = "i686"
-git-tree-sha1 = "1e03a746e0a0f77328481838a05e27041726f5f1"
+git-tree-sha1 = "54c3f0abfc774232aca088b8fdaae11ab8e7c9a4"
 libc = "musl"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "11f5146cde05a65b1eee5bfb31b55201dbfff13c4dfb11b51f30b2da34a3d491"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.i686-linux-musl.tar.gz"
+    sha256 = "77032045bd9ef09278d9b8bb8b54fea36ad6c30a2bee5601784a099d9757096f"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.i686-linux-musl.tar.gz"
 [[open62541]]
 arch = "i686"
-git-tree-sha1 = "1aea7fb1a99147b5bb6f754740d128ca16e14294"
+git-tree-sha1 = "8885f3474ec374ccd845233dc55e4db9735fdaf6"
 os = "windows"
 
     [[open62541.download]]
-    sha256 = "e9e86faddbd5d76c93e2fd475f5cba2f704923eda2e5fb02e22e54c42cad1e99"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.i686-w64-mingw32.tar.gz"
+    sha256 = "1c05054de3e5d104b639e95b60832ca8b08d45861b6851d22abbf6b095a67ede"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.i686-w64-mingw32.tar.gz"
 [[open62541]]
 arch = "powerpc64le"
-git-tree-sha1 = "37c6c9ee99cb427ce18550b56ab151bf4144d892"
+git-tree-sha1 = "b1262140691cd1ac059530a7f7c32a2e3e6b6575"
 libc = "glibc"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "9afbb362c8206e665cb80d0162589b061e2d247af59c85cc9039112f2787e184"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "14ab9dda763e21100931a9a833161248a279565f1d7678f45bbaed2c8e93bc4b"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.powerpc64le-linux-gnu.tar.gz"
 [[open62541]]
 arch = "x86_64"
-git-tree-sha1 = "888f9af7958769353d15a1d53f49762a5368f2cd"
+git-tree-sha1 = "aed74bf0098b93265d75529dce39e9c3ab920d07"
 os = "macos"
 
     [[open62541.download]]
-    sha256 = "7c65496b358df2e2ab82ff3fb8b6b7c111be5b784be48be904195d869408c6b5"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "6077553bfa77711f68fc30a847527a3c41cfdb88437b3e89d11e736fa8eef2f6"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.x86_64-apple-darwin.tar.gz"
 [[open62541]]
 arch = "x86_64"
-git-tree-sha1 = "59b587784724036147cea562645caff9c3bb32b0"
+git-tree-sha1 = "659c9c28051631b0c5c1b674ca499f433b3671fa"
 libc = "glibc"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "71a53d60bee6930769fa43f3604040723de7b352c60d19e728097559260aebab"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "21e54f24ac26a58a7d4f6bd7861b636cea6cf41540b6f0a11a5a08d81755a4d8"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.x86_64-linux-gnu.tar.gz"
 [[open62541]]
 arch = "x86_64"
-git-tree-sha1 = "facb360a10f32e867b4d0daed78c4d56ef3262af"
+git-tree-sha1 = "f68653c263c5dea721641e6d5d3efa4cb658dba0"
 libc = "musl"
 os = "linux"
 
     [[open62541.download]]
-    sha256 = "c5f0b6031f972fa13dc92186f4508d9c44546c550352bf8e5c78f893a84262ee"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.x86_64-linux-musl.tar.gz"
+    sha256 = "c5425d6d7a5ec7bb3c71e658be4a71132529b29980a99ac8dc57bb6b4fffe80b"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.x86_64-linux-musl.tar.gz"
 [[open62541]]
 arch = "x86_64"
-git-tree-sha1 = "411b10386405974720436da380b728e28c4ff8db"
+git-tree-sha1 = "29a96f9269e6f7d75652f4e0288d46b3916d1989"
 os = "freebsd"
 
     [[open62541.download]]
-    sha256 = "41836ae76c55dc93f13a6745029abaa84c89382ad88ed232c2160f48acb8abd4"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "8f12ab68823c3f5948f04fe576a802e3720ec6a08fb50092c16a2c2ea1ee4477"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.x86_64-unknown-freebsd.tar.gz"
 [[open62541]]
 arch = "x86_64"
-git-tree-sha1 = "6c6b1ff5ac1d264d441e6fe37d36ba6b2e0b0247"
+git-tree-sha1 = "c6c753ce80b5efadede7e16d3165bea330df46b2"
 os = "windows"
 
     [[open62541.download]]
-    sha256 = "3158c442a8a4232e958d0ef9ee4e56a1be1866eb720b92471e1dd0b2ea3bfa7a"
-    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.1+0/open62541.v1.4.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "0422e5c752367c1ef5367811fae085040aaf54df6430ac2c3115a49b2ad5f491"
+    url = "https://github.com/JuliaBinaryWrappers/open62541_jll.jl/releases/download/open62541-v1.4.2+0/open62541.v1.4.2.x86_64-w64-mingw32.tar.gz"

@@ -3,7 +3,7 @@ export libopen62541
 
 using OpenSSL_jll
 JLLWrappers.@generate_wrapper_header("open62541")
-JLLWrappers.@declare_library_product(libopen62541, "libopen62541.so.1")
+JLLWrappers.@declare_library_product(libopen62541, "libopen62541.so.1.4")
 function __init__()
     JLLWrappers.@generate_init_header(OpenSSL_jll)
     JLLWrappers.@init_library_product(
