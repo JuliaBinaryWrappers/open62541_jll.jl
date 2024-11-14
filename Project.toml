@@ -1,6 +1,6 @@
 name = "open62541_jll"
 uuid = "de311183-6042-582f-9ed9-05a52085bec4"
-version = "1.4.6+0"
+version = "1.4.7+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
