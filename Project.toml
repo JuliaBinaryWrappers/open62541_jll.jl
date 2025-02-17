@@ -1,6 +1,6 @@
 name = "open62541_jll"
 uuid = "de311183-6042-582f-9ed9-05a52085bec4"
-version = "1.4.8+0"
+version = "1.4.10+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -9,8 +9,8 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
-OpenSSL_jll = "3.0.8"
+OpenSSL_jll = "3.0.16"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
